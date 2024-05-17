@@ -5,5 +5,6 @@ int main()
 {
    cout << "hello world";
    cout << "good" << endl;
+   cout <<"bad" << endl;
    return 0;
 }
